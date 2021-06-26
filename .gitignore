@@ -109,22 +109,6 @@ venv.bak/
 .gradle/
 
 
-# data
-data/
-dataset/
-result/
-
-# model files
-*.ckpt
-
-*.model
-*.vocab
-*.dat
-
-# config files
-nbf/*.txt
-nbf/*.toml
-nbf/github.token
 
 # pytype files
 .pytype/
